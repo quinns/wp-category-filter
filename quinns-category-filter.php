@@ -14,8 +14,8 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Quinn's category filter
- * Plugin URI:        https://github.com/quinns/a-coding-challenge
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Plugin URI:        https://github.com/quinns/wp-category-filter
+ * Description:       A coding challenge for an awesome company!
  * Version:           1.0.0
  * Author:            Quinn Supplee
  * Author URI:        https://www.quinnsupplee.com/
